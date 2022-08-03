@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MoneyTransfer
+build_property.RootNamespace = MoneyTransfer
+build_property.ProjectDir = C:\Users\DELL\Desktop\.net project\MoneyTransfer\MoneyTransfer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\.net project\MoneyTransfer\MoneyTransfer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Abroadagent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBYnJvYWRhZ2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Agent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBZ2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Currenttransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xDdXJyZW50dHJhbnNhY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Nepalagent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXBhbGFnZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Newtransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXd0cmFuc2FjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qdfpzlu75x
