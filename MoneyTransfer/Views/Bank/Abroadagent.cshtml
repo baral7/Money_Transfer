@@ -4,7 +4,7 @@
 @{
 }
 
-  <div class="nav ">
+  <div class="nav bg-dark">
     <!-- Admin Name -->
     <div class="container-fluid d-flex justify-content-end justify-content-between w-100 mr-3 mt-2 ">
       <div class="d-flex flex-col ">
@@ -21,28 +21,28 @@
   <p class="text-center mt-2"><Strong>New Amount Request</Strong></p>
   <form class="row g-3">
 
-    <div class="modalcustom container-fluid w-75">
+    <div class="modalcustom container-fluid w-75 text-black">
 
       <div class="d-flex flex-col mt-2">
-        <label for="exchangerate" class="form-label mx-2 mt-1 text-black">Exchange_Rate:</label>
+        <label for="exchangerate" class="text-danger form-label mx-2 mt-1 ">Exchange_Rate:</label>
         <input type="text" class="form-control  " id="exchangerate" placeholder="Enter Exchange rate">
       </div> 
 
       <div class="d-flex flex-col mt-2 ml-2">
-        <label for="Amount" class="form-label text-black mx-2 mt-1 ">Amount:</label>
+        <label for="Amount" class="form-label text-danger mx-2 mt-1 ">Amount:</label>
         <input type="text" class="form-control " id="Amount" placeholder="Enter amount">
       </div>
 
 
       <div class="d-flex flex-col mt-2">
-        <label for="bankname" class="form-label text-black mx-2 mt-1 ">Bank_Name:</label>
+        <label for="bankname" class="form-label text-danger mx-2 mt-1 ">Bank_Name:</label>
         <input type="text" class="form-control " id="bankname" placeholder="Bank name">
       </div>
 
 
 
       <div class="d-flex flex-col mt-2">
-        <label for="Accno" class="form-label mx-2  text-black">Account_No:</label>
+        <label for="Accno" class="form-label mx-2  text-danger">Account_No:</label>
         <input type="text" class="form-control " id="Accno" placeholder="Enter Account no">
       </div>
 
@@ -64,9 +64,9 @@
   </form>
 
    <!-- complete Transaction -->
-   <div class="container-fluid">
+   <div class="container-fluid ">
     <p class="mt-3 text-center"> <strong> Hold Transaction </strong></p>
-    <table class="table table-striped table-hover">
+    <table class="table text-white bg-danger">
       <thead>
         <tr>
           <th scope="col">S.N</th>
@@ -102,7 +102,7 @@
   <!-- complete Transaction -->
   <div class="container-fluid">
     <p class="mt-3 text-center"> <strong> Complete Transaction </strong></p>
-    <table class="table table-striped table-hover">
+    <table class="table table text-white bg-success">
       <thead>
         <tr>
           <th scope="col">S.N</th>

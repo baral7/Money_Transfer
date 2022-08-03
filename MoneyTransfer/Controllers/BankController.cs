@@ -12,10 +12,24 @@ namespace MoneyTransfer.Controllers
         {
             return View();
         }
+
+
+        //Agent sub field view
         public IActionResult Agent()
         {
             return View();
         }
+        public IActionResult Nepalagentlist()
+        {
+            return View();
+        }
+        public IActionResult Abroadagentlist()
+        {
+            return View();
+        }
+        //
+
+
         public IActionResult Currenttransaction()
         {
             return View();
@@ -37,5 +51,6 @@ namespace MoneyTransfer.Controllers
         {
             return View();
         }
+
     }
 }

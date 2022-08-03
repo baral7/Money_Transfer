@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBYnJvYWRhZ2VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Abroadagentlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBYnJvYWRhZ2VudGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Agent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBZ2VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Nepalagent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXBhbGFnZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Nepalagentlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXBhbGFnZW50bGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL/Desktop/.net project/MoneyTransfer/MoneyTransfer/Views/Bank/Newtransaction.cshtml]
