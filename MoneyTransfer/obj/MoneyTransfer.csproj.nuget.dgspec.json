@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\.net project\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\.net project\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\.net project\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj",
         "projectName": "MoneyTransfer",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\.net project\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\.net project\\MoneyTransfer\\MoneyTransfer\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
