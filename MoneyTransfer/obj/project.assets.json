@@ -1771,19 +1771,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Money_Transfer\\MoneyTransfer\\MoneyTransfer.csproj",
       "projectName": "MoneyTransfer",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\MoneyTransfer.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\ForClone\\MoneyTransfer\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Money_Transfer\\MoneyTransfer\\MoneyTransfer.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Money_Transfer\\MoneyTransfer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

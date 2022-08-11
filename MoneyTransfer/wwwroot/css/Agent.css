@@ -25,7 +25,7 @@ li {
   background-color:#1f2833 ;
 }
 /* navlink navbar  */
- .ancor{
+ .ancors{
   text-decoration:none;
   color: white;
   text-align: center;
@@ -35,7 +35,7 @@ li {
   border-bottom: 1px solid #1f2833;
 }
 
-.ancor:hover {
+.ancors:hover {
   color: rgb(225, 206, 206); 
   text-decoration: none;
   background-color: #18426b;

@@ -24,6 +24,8 @@
 
 label {
     color: white;
+    
+
 }
 
 .custombtn {
@@ -32,6 +34,7 @@ label {
     height: 28px;
     border: #45a29e;
     border-radius: 7px;
+    transition: 0.3s;
 }
 
     .custombtn:hover {
@@ -42,6 +45,9 @@ label {
 .position {
     position: relative;
     left: 50%;
+    
+    
+    
     transform: translate(-50%);
 }
 
@@ -57,11 +63,11 @@ label {
 
 
 .bg-nav {
-    background-color: #6fb3b8;
+    background-color: #333333;
 }
 
 .bg-body {
-    background-color: #f6fcf2;
+    background-color: #CCCCCC;
 }
 
 .bg-active {
@@ -88,7 +94,7 @@ label {
     .ancor:hover {
         text-decoration: none;
         color: white;
-        background-color: #6c9a9e;
+        background-color: #4c5e5d;
     }
 /* .logosection */
 .logosection {
@@ -109,7 +115,7 @@ label {
 }
 
 .margin {
-    margin-left: 34%;
+    margin-left: 3%;
 }
 
 /* navbar sm height */
@@ -130,7 +136,7 @@ label {
 }
 
     .btn-custom:hover {
-        background-color: #6c9a9e;
+        background-color: # #4c5e5d;
     }
 
 .btn-default {
@@ -145,6 +151,9 @@ label {
         background-color: #6c9a9e;
     }
 /* object fit */
+
+
+
 
 
 /* view height 50 carasol */

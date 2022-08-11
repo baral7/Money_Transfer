@@ -29,7 +29,7 @@ label {
     background-color:#1f2833 ;
   }
   /* navlink navbar  */
-   .ancor{
+   .ancors{
     color: white;
     text-align: center;
     position: relative;
@@ -39,7 +39,7 @@ label {
     text-decoration:none;
   }
   
-  .ancor:hover {
+  .ancors:hover {
     color: rgb(225, 206, 206); 
     text-decoration: none;
     background-color: #18426b;
