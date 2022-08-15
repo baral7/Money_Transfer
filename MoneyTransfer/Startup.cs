@@ -22,6 +22,7 @@ namespace MoneyTransfer
         {
             var connectionString = Configuration.GetConnectionString("CompanyDB");
             services.AddDbContextPool<Dbcontextclass>(option => option.UseSqlServer(connectionString));
+            services.AddDbContextPool<TransferOfficialContext>(option => option.UseSqlServer(connectionString));
             services.AddControllersWithViews();
         }
 

@@ -6,6 +6,7 @@ namespace MoneyTransfer.Controllers
     {
         public IActionResult Registration()
         {
+
             return View();
         }
         public IActionResult Login()
