@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\extra\\MoneyTransfer\\MoneyTransfer.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\updated fork\\MoneyTransfer\\MoneyTransfer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\extra\\MoneyTransfer\\MoneyTransfer.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\updated fork\\MoneyTransfer\\MoneyTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\extra\\MoneyTransfer\\MoneyTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\updated fork\\MoneyTransfer\\MoneyTransfer.csproj",
         "projectName": "MoneyTransfer",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\extra\\MoneyTransfer\\MoneyTransfer.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\updated fork\\MoneyTransfer\\MoneyTransfer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\extra\\MoneyTransfer\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\updated fork\\MoneyTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

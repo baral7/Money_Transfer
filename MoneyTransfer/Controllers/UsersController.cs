@@ -24,6 +24,18 @@ namespace MoneyTransfer.Controllers
             var transferOfficialContext = _context.Users.Include(u => u.Role);
             return View(await transferOfficialContext.ToListAsync());
         }
+        // Registration of user
+        public ActionResult Registration(String Name,String Address,String Phone)
+        {
+            User obj = new User();
+            obj.Name = Name;
+            obj.Address = Address;
+            obj.Phone = Phone;
+            _context.Add(obj);
+            _context.SaveChanges();
+
+            return RedirectToAction("Login", "Bank");
+        }
 
         // GET: Users/Details/5
         public async Task<IActionResult> Details(int? id)

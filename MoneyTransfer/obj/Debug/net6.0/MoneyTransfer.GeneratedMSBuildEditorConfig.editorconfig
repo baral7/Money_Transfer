@@ -8,177 +8,177 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MoneyTransfer
 build_property.RootNamespace = MoneyTransfer
-build_property.ProjectDir = C:\Users\Admin\Desktop\extra\MoneyTransfer\
+build_property.ProjectDir = C:\Users\Admin\Source\Repos\updated fork\MoneyTransfer\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\extra\MoneyTransfer
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Source\Repos\updated fork\MoneyTransfer
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/BankDetails/Create.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/BankDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0RldGFpbHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/BankDetails/Delete.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/BankDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0RldGFpbHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/BankDetails/Details.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/BankDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0RldGFpbHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/BankDetails/Edit.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/BankDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0RldGFpbHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/BankDetails/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/BankDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0RldGFpbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Abroadagent.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Abroadagent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBYnJvYWRhZ2VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Abroadagentlist.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Abroadagentlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBYnJvYWRhZ2VudGxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Agent.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Agent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xBZ2VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Currenttransaction.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Currenttransaction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xDdXJyZW50dHJhbnNhY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Homepage.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Homepage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xIb21lcGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Login.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Nepalagent.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Nepalagent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXBhbGFnZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Nepalagentlist.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Nepalagentlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXBhbGFnZW50bGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Newtransaction.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Newtransaction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xOZXd0cmFuc2FjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Bank/Registration.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Bank/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua1xSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Home/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Home/Privacy.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Messages/Create.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Messages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Messages/Delete.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Messages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Messages/Details.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Messages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Messages/Edit.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Messages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Messages/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Messages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Roles/Create.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Roles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Roles/Delete.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Roles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Roles/Details.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Roles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Roles/Edit.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Roles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Roles/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Shared/Error.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Transactions/Create.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Transactions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Transactions/Delete.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Transactions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Transactions/Details.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Transactions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Transactions/Edit.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Transactions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Transactions/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Transactions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Users/Create.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Users/Delete.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Users/Details.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Users/Edit.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Users/Index.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/_ViewImports.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/_ViewStart.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/extra/MoneyTransfer/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/Source/Repos/updated fork/MoneyTransfer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qdfpzlu75x
